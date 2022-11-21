@@ -1,0 +1,21 @@
+
+W
+java:S1128"5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ8ÇÚØÖÆ0
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8ô’äæÅ0
+Q
+java:S3740"/Provide the parametrized type for this generic.(œ¿ÚÌÿÿÿÿÿ8õ›·Æ0
+c
+java:S11267"AReplace this if-then-else statement by a single return statement.(§…­‚ùÿÿÿÿ8ö›·Æ0
+j
+java:S2259."HA "NullPointerException" could be thrown; "getMethod()" can return null.(âíé»úÿÿÿÿ8ÙÈåÖÆ0
+L
+java:S3740F"/Provide the parametrized type for this generic.(¯ÖÈ×8”ëÛÏÆ0
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õ¤½Ğ8ÇÈ×ÖÆ0
+Q
+java:S3740P"/Provide the parametrized type for this generic.(ªˆõ£ûÿÿÿÿ8¶êúİÆ0
+Q
+java:S3740?"/Provide the parametrized type for this generic.(µ·õúÿÿÿÿ8ö›·Æ0
+n
+java:S2259B"LA "NullPointerException" could be thrown; "getFieldError()" can return null.(ßÛˆ½şÿÿÿÿ8­Ä‘·Æ0

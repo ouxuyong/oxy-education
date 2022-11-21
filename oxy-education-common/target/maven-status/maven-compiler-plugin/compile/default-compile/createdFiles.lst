@@ -1,0 +1,4 @@
+com\oxygen\response\OxyResponse.class
+com\oxygen\response\ResponseAdvice.class
+com\oxygen\response\OxyResPage.class
+com\oxygen\config\WebResponseConfig.class

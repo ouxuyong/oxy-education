@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67dc6943-9ff3-444a-9438-ffe389ef34b9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/oxy-education-web/target/" />
+    <ignored path="$PROJECT_DIR$/oxy-education-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/configure/CommonLogAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/WebLogAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/AbstractLogAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/EnumsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/EnumsParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot-starter</find>
+      <find>spring-boot</find>
+      <find>参</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oxy-education-code/pom.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/response/OxyResult.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/OxyEducationWebApplication.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/resources/mapper/CallCustomsConfigMapper.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/config/WebResponseConfig.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/response/OxyResponse.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/model/UserModel.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/model/OrderModel.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/model/OrderItemModel.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/pom.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderItemParamV1.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderSaveParamV1.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderSaveParamV2.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/exception/OryxException.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/exception/OxyException.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/constant/SystemErrorCode.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/response/ResponseAdvice.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/TestParam1.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/TestParam2.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/TestControoler.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/TestServiceUtils.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/TestParamUtils.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderItemParam.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderSaveParam.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/test/java/com/oxygen/RunTimeTest.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/pom.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/test/java/com/oxygen/OxyEducationWebTest.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/WebLogAspect11.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/MethodLogAspect.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/WebLogAspect.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/UserService.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/EnumsParam.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/utils/AnnotationResolver.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/annotation/IgnoreLogAspect.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/AbstractLogAspect.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/annotation/LogAspect.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/EnumsController.java" />
+        <option value="$PROJECT_DIR$/oxy-education-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/configure/CommonLogAutoConfiguration.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oxy-education-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4013" />
+    <option name="y" value="-992" />
+    <option name="width" value="4025" />
+    <option name="height" value="2200" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oxygen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oxygen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oxygen" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oxy-education" type="462c0819:PsiDirectoryNode" />
+              <item name="oxy-education-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oxy-education" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\oxy_project\oxy-education\oxy-education-common\src\main\resources" />
+      <recent name="D:\oxy_project\oxy-education\oxy-education-web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oxygen.utils" />
+      <recent name="com.oxygen.service.impl" />
+      <recent name="com.oxygen.service" />
+      <recent name="com.oxygen.mapper" />
+      <recent name="com.oxygen.configure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\oxy_project\oxy-education\oxy-education-web\src\main\resources\mapper" />
+      <recent name="D:\oxy_project\oxy-education\oxy-education-web\src\main\resources" />
+      <recent name="D:\oxy_project\oxy-education\oxy-education-common\src\main\java\com\oxygen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OxyEducationWebApplication">
+    <configuration name="OxyEducationWebTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oxy-education-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oxygen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oxygen" />
+      <option name="MAIN_CLASS_NAME" value="com.oxygen.OxyEducationWebTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OxyEducationWebTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oxy-education-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oxygen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oxygen" />
+      <option name="MAIN_CLASS_NAME" value="com.oxygen.OxyEducationWebTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTimeTest.newStatisticsTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oxy-education-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oxygen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oxygen" />
+      <option name="MAIN_CLASS_NAME" value="com.oxygen.RunTimeTest" />
+      <option name="METHOD_NAME" value="newStatisticsTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTimeTest.oldStatisticsTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oxy-education-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oxygen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.oxygen" />
+      <option name="MAIN_CLASS_NAME" value="com.oxygen.RunTimeTest" />
+      <option name="METHOD_NAME" value="oldStatisticsTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OxyEducationWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="oxy-education-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oxygen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oxygen.OxyEducationWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OxyEducationWebApplication" />
+        <item itemvalue="JUnit.RunTimeTest.oldStatisticsTime" />
+        <item itemvalue="JUnit.RunTimeTest.newStatisticsTime" />
+        <item itemvalue="JUnit.OxyEducationWebTest.test" />
+        <item itemvalue="JUnit.OxyEducationWebTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67dc6943-9ff3-444a-9438-ffe389ef34b9" name="Default Changelist" comment="" />
+      <created>1667568965186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667568965186</updated>
+      <workItem from="1667568968010" duration="662000" />
+      <workItem from="1667569812762" duration="6719000" />
+      <workItem from="1667745415326" duration="2393000" />
+      <workItem from="1667785631547" duration="145000" />
+      <workItem from="1667792733222" duration="2145000" />
+      <workItem from="1667816736491" duration="958000" />
+      <workItem from="1667827955213" duration="2640000" />
+      <workItem from="1667872746744" duration="789000" />
+      <workItem from="1667901027364" duration="2534000" />
+      <workItem from="1667915509695" duration="269000" />
+      <workItem from="1667915856255" duration="5451000" />
+      <workItem from="1667961326565" duration="8437000" />
+      <workItem from="1668003721373" duration="4543000" />
+      <workItem from="1668047770270" duration="1184000" />
+      <workItem from="1668067112911" duration="2694000" />
+      <workItem from="1668087670400" duration="2761000" />
+      <workItem from="1668131332984" duration="6809000" />
+      <workItem from="1668170120426" duration="5555000" />
+      <workItem from="1668216318270" duration="5928000" />
+      <workItem from="1668312183408" duration="8212000" />
+      <workItem from="1668394097286" duration="11700000" />
+      <workItem from="1668476515919" duration="1124000" />
+      <workItem from="1668566660663" duration="2386000" />
+      <workItem from="1668653101548" duration="10479000" />
+      <workItem from="1668736644631" duration="2958000" />
+      <workItem from="1668770348335" duration="127000" />
+      <workItem from="1668820614386" duration="5515000" />
+      <workItem from="1668848782796" duration="3699000" />
+      <workItem from="1668859905591" duration="4828000" />
+      <workItem from="1668906717622" duration="7566000" />
+      <workItem from="1668928324880" duration="1673000" />
+      <workItem from="1668995399134" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunTimeTest_oldStatisticsTime - 2022.11.19 at 09h 30m 16s.xml">
+      <configuration name="RunTimeTest.oldStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_oldStatisticsTime - 2022.11.19 at 09h 30m 46s.xml">
+      <configuration name="RunTimeTest.oldStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 09h 37m 22s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 09h 37m 52s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 09h 45m 55s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_oldStatisticsTime - 2022.11.19 at 09h 57m 08s.xml">
+      <configuration name="RunTimeTest.oldStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 09h 59m 48s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 10h 07m 09s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_newStatisticsTime - 2022.11.19 at 10h 10m 35s.xml">
+      <configuration name="RunTimeTest.newStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTimeTest_oldStatisticsTime - 2022.11.19 at 10h 17m 04s.xml">
+      <configuration name="RunTimeTest.oldStatisticsTime" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123790000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2568" y="-634" width="2576" height="1408" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10969793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38666666" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06723891" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4234621" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.4334764" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.011923688" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Mongo Explorer" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38666666" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06723891" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.042918455" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.4334764" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.032841824" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Mongo Explorer" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/MethodLogAspect.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/AbstractLogAspect.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>System.out.println(methodParameter.getMethod().getName());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Type genericParameterType = methodParameter.getGenericParameterType();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.lang.reflect.Type</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>methodParameter.getGenericParameterType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/jdk/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/spel/standard/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/common/LiteralExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/spel/standard/SpelExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.11.RELEASE/spring-core-5.0.11.RELEASE-sources.jar!/org/springframework/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/common/CompositeStringExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/ParserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE.jar!/org/springframework/expression/ParserContext.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.0.11.RELEASE/spring-context-5.0.11.RELEASE.jar!/org/springframework/context/expression/StandardBeanExpressionResolver.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/spel/standard/SpelExpressionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/common/TemplateAwareExpressionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#3858#5096#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/enums/OrderStateType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" selection-start-line="11" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/OxyEducationWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/common/TemplateParserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/ExpressionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="53" column="77" selection-start-line="53" selection-start-column="70" selection-end-line="53" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-expression/5.0.11.RELEASE/spring-expression-5.0.11.RELEASE-sources.jar!/org/springframework/expression/spel/standard/InternalSpelExpressionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="e#5060#5061#0" expanded="true" />
+            <element signature="e#5101#5102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8300">
+          <caret line="355" column="16" selection-start-line="355" selection-start-column="16" selection-end-line="355" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.11.RELEASE/spring-core-5.0.11.RELEASE-sources.jar!/org/springframework/util/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="144" column="28" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="28" />
+          <folding>
+            <element signature="e#8436#8437#0" expanded="true" />
+            <element signature="e#8465#8466#0" expanded="true" />
+            <element signature="e#8563#8564#0" expanded="true" />
+            <element signature="e#8594#8595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/test/java/com/oxygen/OxyEducationWebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76750">
+          <caret line="3212" column="18" selection-start-line="3212" selection-start-column="18" selection-end-line="3212" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/test/java/com/oxygen/RunTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/NotNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.0.7.RELEASE/spring-boot-starter-web-2.0.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.oxygen:oxy-education-web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.oxygen:oxy-education-web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="748.71875">com.oxygen:oxy-education-web:1.0-SNAPSHOT</node>
+            <node x="177.0" y="1063.96875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE</node>
+            <node x="452.0" y="710.1379354136427">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE</node>
+            <node x="764.5" y="704.113538642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE</node>
+            <node x="717.5" y="745.113538642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE</node>
+            <node x="972.0" y="591.4691854136427">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="1143.0" y="591.4691854136427">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="978.5" y="1120.376038642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="1155.5" y="1120.376038642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="986.5" y="1077.64375">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="741.0" y="955.14375">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="769.5" y="786.113538642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="460.0" y="1199.3135386429608">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.7.RELEASE</node>
+            <node x="416.5" y="1138.3135386429608">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.7.RELEASE</node>
+            <node x="481.0" y="1555.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="769.0" y="1625.2379354136428">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="969.5" y="1511.0681467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="1170.0" y="1511.0681467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="777.0" y="1437.0098829825838">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="496.0" y="1392.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/junit:junit:jar:4.12</node>
+            <node x="474.5" y="1637.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
+            <node x="469.0" y="1726.89375">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
+            <node x="765.5" y="1765.2556467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="746.0" y="1683.2556467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
+            <node x="772.0" y="1724.2556467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="466.5" y="1453.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="461.0" y="1514.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="479.5" y="1806.2556467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="762.5" y="1806.2556467706818">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="474.5" y="498.957288642961">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE</node>
+            <node x="772.5" y="466.53125">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE/org.springframework:spring-jcl:jar:5.0.11.RELEASE</node>
+            <node x="476.5" y="637.2093024310587">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-test:jar:5.0.11.RELEASE</node>
+            <node x="471.5" y="1596.51875">org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
+            <node x="177.0" y="506.21875">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT</node>
+            <node x="416.0" y="859.1885386429609">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3</node>
+            <node x="717.5" y="1539.0098829825838">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1</node>
+            <node x="696.0" y="1478.0098829825838">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1</node>
+            <node x="993.5" y="1767.89375">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5</node>
+            <node x="756.0" y="1970.6754354136428">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1</node>
+            <node x="685.0" y="996.14375">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3</node>
+            <node x="766.0" y="914.14375">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2</node>
+            <node x="988.0" y="1331.01875">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0</node>
+            <node x="438.5" y="596.2093024310587">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE</node>
+            <node x="767.5" y="326.0">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE</node>
+            <node x="758.0" y="511.46875">com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="225.0" y="445.21875">org.projectlombok:lombok:jar:1.16.10</node>
+            <node x="225.0" y="725.59375">com.alibaba:fastjson:jar:1.2.49</node>
+            <node x="175.5" y="630.09375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE</node>
+            <node x="437.5" y="88.875">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE</node>
+            <node x="749.5" y="61.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7</node>
+            <node x="958.0" y="39.1875">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="979.0" y="81.5">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7</node>
+            <node x="735.0" y="163.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7</node>
+            <node x="729.5" y="122.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7</node>
+            <node x="699.5" y="0.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7</node>
+            <node x="428.5" y="986.1260386429609">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE</node>
+            <node x="740.0" y="1201.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.35</node>
+            <node x="748.0" y="1160.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.35</node>
+            <node x="722.0" y="1262.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.35</node>
+            <node x="452.5" y="923.3135386429609">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final</node>
+            <node x="760.0" y="1037.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="759.5" y="1078.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="771.5" y="1119.14375">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="475.5" y="227.84418541364266">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE</node>
+            <node x="761.5" y="387.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE</node>
+            <node x="463.5" y="327.21918541364266">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE</node>
+            <node x="756.5" y="265.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE</node>
+            <node x="747.5" y="204.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-expression:jar:5.0.11.RELEASE</node>
+            <node x="184.0" y="2019.563538642961">mysql:mysql-connector-java:jar:8.0.23</node>
+            <node x="468.5" y="2019.563538642961">mysql:mysql-connector-java:jar:8.0.23/com.google.protobuf:protobuf-java:jar:3.11.4</node>
+            <node x="171.5" y="1202.8135386429608">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2</node>
+            <node x="471.5" y="1883.0056467706818">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2</node>
+            <node x="749.5" y="1888.6754354136428">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71</node>
+            <node x="981.0" y="1987.64375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71</node>
+            <node x="1118.0" y="1967.14375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.2.71</node>
+            <node x="1147.5" y="2008.14375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71/org.jetbrains:annotations:jar:13.0</node>
+            <node x="966.0" y="1926.64375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.2.71</node>
+            <node x="430.0" y="1027.1260386429608">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE</node>
+            <node x="436.5" y="1097.3135386429608">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE</node>
+            <node x="775.5" y="1303.14375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
+            <node x="766.0" y="873.14375">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE</node>
+            <node x="773.5" y="663.113538642961">com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE/org.springframework:spring-tx:jar:5.0.11.RELEASE</node>
+            <node x="179.5" y="1929.26875">com.baomidou:mybatis-plus-extension:jar:3.5.2</node>
+            <node x="456.0" y="1929.26875">com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2</node>
+            <node x="728.5" y="2011.6754354136428">com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/com.baomidou:mybatis-plus-annotation:jar:3.5.2</node>
+            <node x="771.5" y="1847.6754354136428">com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/com.github.jsqlparser:jsqlparser:jar:4.4</node>
+            <node x="777.0" y="1929.6754354136428">com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/org.mybatis:mybatis:jar:3.5.10</node>
+            <node x="465.0" y="1978.563538642961">com.baomidou:mybatis-plus-extension:jar:3.5.2/org.mybatis:mybatis-spring:jar:2.0.7</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-44.0" y="-0.0" />
+              <point x="645.0" y="336.5" />
+              <point x="625.0" y="505.519788642961" />
+              <point x="46.0" y="-3.9375" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE">
+              <point x="-47.0" y="-8.399999999999977" />
+              <point x="665.0" y="706.2135386429609" />
+              <point x="665.0" y="278.125" />
+              <point x="-55.0" y="2.625" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="-94.0" y="-7.875" />
+              <point x="645.0" y="1541.6348829825838" />
+              <point x="625.0" y="729.0379354136427" />
+              <point x="68.5" y="8.399999999999977" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1">
+              <point x="41.0" y="-0.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-expression:jar:5.0.11.RELEASE">
+              <point x="57.0" y="-7.875" />
+              <point x="625.0" y="329.84418541364266" />
+              <point x="645.0" y="209.25" />
+              <point x="-64.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE/org.springframework:spring-jcl:jar:5.0.11.RELEASE">
+              <point x="46.0" y="1.3125" />
+              <point x="625.0" y="510.769788642961" />
+              <point x="645.0" y="477.03125" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0">
+              <point x="82.0" y="3.2307692307692832" />
+              <point x="366.5" y="1566.01875" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3">
+              <point x="82.0" y="5.25" />
+              <point x="366.5" y="869.6885386429609" />
+              <point x="-104.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-55.0" y="-2.625" />
+              <point x="645.0" y="272.875" />
+              <point x="625.0" y="502.894788642961" />
+              <point x="46.0" y="-6.5625" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/com.baomidou:mybatis-plus-annotation:jar:3.5.2">
+              <point x="64.5" y="7.875" />
+              <point x="625.0" y="1947.64375" />
+              <point x="645.0" y="2022.1754354136428" />
+              <point x="-83.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-library:jar:1.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0">
+              <point x="82.0" y="9.692307692307622" />
+              <point x="366.5" y="1816.7556467706818" />
+              <point x="-41.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE">
+              <point x="68.5" y="-4.2000000000000455" />
+              <point x="625.0" y="716.4379354136427" />
+              <point x="645.0" y="755.613538642961" />
+              <point x="-94.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7">
+              <point x="83.0" y="7.875" />
+              <point x="625.0" y="107.25" />
+              <point x="645.0" y="178.75" />
+              <point x="-76.5" y="5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71">
+              <point x="49.0" y="-0.0" />
+              <point x="-62.0" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1">
+              <point x="104.5" y="7.0" />
+              <point x="645.0" y="1546.8848829825838" />
+              <point x="-94.0" y="-2.625" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.35">
+              <point x="92.0" y="-2.625" />
+              <point x="625.0" y="994.0010386429609" />
+              <point x="645.0" y="1170.64375" />
+              <point x="-63.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71/org.jetbrains:annotations:jar:13.0">
+              <point x="47.0" y="5.25" />
+              <point x="1098.0" y="2003.39375" />
+              <point x="1118.0" y="2018.64375" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="mysql:mysql-connector-java:jar:8.0.23" target="mysql:mysql-connector-java:jar:8.0.23/com.google.protobuf:protobuf-java:jar:3.11.4">
+              <point x="75.0" y="-0.0" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE">
+              <point x="60.5" y="-0.0" />
+              <point x="625.0" y="1209.8135386429608" />
+              <point x="645.0" y="723.0135386429608" />
+              <point x="-47.0" y="8.399999999999977" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/org.mybatis:mybatis:jar:3.5.10">
+              <point x="64.5" y="2.625" />
+              <point x="625.0" y="1942.39375" />
+              <point x="645.0" y="1940.1754354136428" />
+              <point x="-34.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE/org.springframework:spring-tx:jar:5.0.11.RELEASE">
+              <point x="-45.5" y="-7.875" />
+              <point x="655.0" y="875.76875" />
+              <point x="655.0" y="680.613538642961" />
+              <point x="-38.0" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.35">
+              <point x="92.0" y="2.625" />
+              <point x="625.0" y="999.2510386429609" />
+              <point x="645.0" y="1211.64375" />
+              <point x="-71.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="-126.5" y="5.25" />
+              <point x="645.0" y="1011.89375" />
+              <point x="625.0" y="1037.6260386429608" />
+              <point x="90.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="39.5" y="-5.25" />
+              <point x="625.0" y="1560.76875" />
+              <point x="645.0" y="1447.5098829825838" />
+              <point x="-34.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
+              <point x="112.0" y="-0.0" />
+              <point x="938.0" y="10.5" />
+              <point x="958.0" y="84.125" />
+              <point x="-49.0" y="-7.875" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="com.baomidou:mybatis-plus-extension:jar:3.5.2">
+              <point x="68.5" y="6.5625" />
+              <point x="157.0" y="1939.76875" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0">
+              <point x="82.0" y="8.076923076923094" />
+              <point x="366.5" y="1737.39375" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.7.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-test:jar:5.0.11.RELEASE">
+              <point x="82.0" y="-8.076923076923094" />
+              <point x="366.5" y="652.9593024310587" />
+              <point x="-44.0" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-45.0" y="5.25" />
+              <point x="376.5" y="243.59418541364266" />
+              <point x="376.5" y="501.582288642961" />
+              <point x="-46.0" y="-7.875" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="-68.5" y="9.0" />
+              <point x="386.5" y="729.6379354136427" />
+              <point x="386.5" y="1030.6260386429608" />
+              <point x="-90.5" y="-7.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-45.5" y="2.625" />
+              <point x="645.0" y="886.26875" />
+              <point x="625.0" y="518.644788642961" />
+              <point x="46.0" y="9.1875" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/com.zaxxer:HikariCP:jar:2.7.9">
+              <point x="84.0" y="-0.0" />
+              <point x="625.0" y="1107.8135386429608" />
+              <point x="645.0" y="1313.64375" />
+              <point x="-36.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
+              <point x="83.0" y="-2.625" />
+              <point x="625.0" y="96.75" />
+              <point x="645.0" y="66.25" />
+              <point x="-62.0" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2">
+              <point x="68.5" y="3.9375" />
+              <point x="157.0" y="1213.3135386429608" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2">
+              <point x="79.5" y="-0.0" />
+              <point x="-64.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE">
+              <point x="83.5" y="-1.75" />
+              <point x="366.5" y="337.71918541364266" />
+              <point x="-57.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11">
+              <point x="51.5" y="-7.0" />
+              <point x="625.0" y="1730.39375" />
+              <point x="645.0" y="1693.7556467706818" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
+              <point x="-76.5" y="-5.25" />
+              <point x="645.0" y="168.25" />
+              <point x="645.0" y="76.75" />
+              <point x="-62.0" y="5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/org.mybatis:mybatis-spring:jar:2.0.7">
+              <point x="79.5" y="7.0" />
+              <point x="366.5" y="1989.063538642961" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.2.71">
+              <point x="47.0" y="-5.25" />
+              <point x="1098.0" y="1992.89375" />
+              <point x="-75.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.35">
+              <point x="92.0" y="7.875" />
+              <point x="625.0" y="1004.5010386429609" />
+              <point x="645.0" y="1272.64375" />
+              <point x="-89.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3">
+              <point x="39.5" y="5.25" />
+              <point x="625.0" y="1571.26875" />
+              <point x="645.0" y="1635.7379354136428" />
+              <point x="-42.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="-83.0" y="5.25" />
+              <point x="366.5" y="104.625" />
+              <point x="366.5" y="717.6379354136427" />
+              <point x="-68.5" y="-3.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT" target="org.projectlombok:lombok:jar:1.16.10">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6">
+              <point x="51.5" y="-0.0" />
+              <point x="625.0" y="1737.39375" />
+              <point x="645.0" y="1734.7556467706818" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="82.0" y="-9.692307692307622" />
+              <point x="366.5" y="506.832288642961" />
+              <point x="-46.0" y="-2.625" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2">
+              <point x="42.5" y="-0.0" />
+              <point x="938.0" y="1635.7379354136428" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE">
+              <point x="87.5" y="-0.0" />
+              <point x="366.5" y="1113.0635386429608" />
+              <point x="-84.0" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-50.0" y="1.75" />
+              <point x="645.0" y="399.25" />
+              <point x="625.0" y="508.144788642961" />
+              <point x="46.0" y="-1.3125" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
+              <point x="76.5" y="-0.0" />
+              <point x="938.0" y="173.5" />
+              <point x="958.0" y="99.875" />
+              <point x="-49.0" y="7.875" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/junit:junit:jar:4.12" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11">
+              <point x="51.5" y="7.0" />
+              <point x="625.0" y="1744.39375" />
+              <point x="645.0" y="1775.7556467706818" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1">
+              <point x="-94.0" y="7.875" />
+              <point x="645.0" y="1557.3848829825838" />
+              <point x="645.0" y="1975.9254354136428" />
+              <point x="-55.5" y="-5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2">
+              <point x="-49.0" y="5.25" />
+              <point x="366.5" y="1898.7556467706818" />
+              <point x="79.5" y="-7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/junit:junit:jar:4.12">
+              <point x="82.0" y="-1.615384615384528" />
+              <point x="366.5" y="1403.01875" />
+              <point x="-24.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="87.5" y="-7.0" />
+              <point x="366.5" y="1037.6260386429608" />
+              <point x="-90.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE">
+              <point x="-94.0" y="2.625" />
+              <point x="645.0" y="1552.1348829825838" />
+              <point x="625.0" y="1114.8135386429608" />
+              <point x="84.0" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.35" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.35">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-41.5" y="5.25" />
+              <point x="958.0" y="1093.39375" />
+              <point x="938.0" y="1447.5098829825838" />
+              <point x="34.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2">
+              <point x="104.5" y="-7.0" />
+              <point x="645.0" y="924.64375" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE">
+              <point x="82.0" y="-5.25" />
+              <point x="366.5" y="601.4593024310587" />
+              <point x="-82.0" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/org.mybatis:mybatis-spring:jar:2.0.7">
+              <point x="-55.5" y="5.25" />
+              <point x="645.0" y="1986.4254354136428" />
+              <point x="625.0" y="1989.063538642961" />
+              <point x="55.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="org.projectlombok:lombok:jar:1.16.10">
+              <point x="68.5" y="-9.1875" />
+              <point x="157.0" y="455.71875" />
+              <point x="-34.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="82.0" y="-6.4615384615385665" />
+              <point x="366.5" y="723.6379354136427" />
+              <point x="-68.5" y="3.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="62.0" y="-5.25" />
+              <point x="938.0" y="66.25" />
+              <point x="-70.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="45.0" y="-0.0" />
+              <point x="625.0" y="238.34418541364266" />
+              <point x="645.0" y="392.25" />
+              <point x="-50.0" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="-82.0" y="5.25" />
+              <point x="386.5" y="611.9593024310587" />
+              <point x="386.5" y="711.6379354136427" />
+              <point x="-68.5" y="-9.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="82.0" y="-5.25" />
+              <point x="938.0" y="127.25" />
+              <point x="-70.0" y="5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3">
+              <point x="104.5" y="-0.0" />
+              <point x="645.0" y="1001.39375" />
+              <point x="-126.5" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.7.RELEASE" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="-104.0" y="-5.25" />
+              <point x="366.5" y="1143.5635386429608" />
+              <point x="366.5" y="1044.6260386429608" />
+              <point x="-90.5" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="83.5" y="1.75" />
+              <point x="366.5" y="720.6379354136427" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE">
+              <point x="90.5" y="-7.0" />
+              <point x="625.0" y="1030.6260386429608" />
+              <point x="645.0" y="718.813538642961" />
+              <point x="-47.0" y="4.2000000000000455" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/javax.validation:validation-api:jar:2.0.1.Final">
+              <point x="68.0" y="-7.0" />
+              <point x="625.0" y="926.8135386429609" />
+              <point x="645.0" y="1047.64375" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.49">
+              <point x="68.5" y="-1.3125" />
+              <point x="157.0" y="741.34375" />
+              <point x="-34.0" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+              <point x="68.0" y="-0.0" />
+              <point x="625.0" y="933.8135386429609" />
+              <point x="645.0" y="1088.64375" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE">
+              <point x="83.5" y="8.75" />
+              <point x="366.5" y="996.6260386429609" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="94.0" y="-0.0" />
+              <point x="938.0" y="755.613538642961" />
+              <point x="958.0" y="1082.89375" />
+              <point x="-41.5" y="-5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.2.71">
+              <point x="62.0" y="-5.25" />
+              <point x="938.0" y="1893.9254354136428" />
+              <point x="-62.0" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.2.71" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/com.github.jsqlparser:jsqlparser:jar:4.4">
+              <point x="-40.0" y="5.25" />
+              <point x="958.0" y="1346.76875" />
+              <point x="938.0" y="1858.1754354136428" />
+              <point x="40.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-expression:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-64.0" y="5.25" />
+              <point x="645.0" y="219.75" />
+              <point x="625.0" y="500.269788642961" />
+              <point x="46.0" y="-9.1875" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE">
+              <point x="82.0" y="-5.25" />
+              <point x="625.0" y="601.4593024310587" />
+              <point x="645.0" y="343.5" />
+              <point x="-44.0" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-68.5" y="-6.0" />
+              <point x="376.5" y="714.6379354136427" />
+              <point x="376.5" y="512.082288642961" />
+              <point x="-46.0" y="2.625" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="82.0" y="-4.846153846153811" />
+              <point x="366.5" y="1154.0635386429608" />
+              <point x="-104.0" y="5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE">
+              <point x="68.5" y="1.3125" />
+              <point x="157.0" y="1074.46875" />
+              <point x="-82.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
+              <point x="82.0" y="1.615384615384528" />
+              <point x="366.5" y="1525.01875" />
+              <point x="-59.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-expression:jar:5.0.11.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13">
+              <point x="82.0" y="5.25" />
+              <point x="625.0" y="611.9593024310587" />
+              <point x="645.0" y="521.96875" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="-55.0" y="7.875" />
+              <point x="675.0" y="283.375" />
+              <point x="675.0" y="388.75" />
+              <point x="-50.0" y="-8.75" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="92.0" y="-7.875" />
+              <point x="625.0" y="988.7510386429609" />
+              <point x="645.0" y="970.89375" />
+              <point x="-70.5" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-test:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-44.0" y="-5.25" />
+              <point x="396.5" y="642.4593024310587" />
+              <point x="396.5" y="517.332288642961" />
+              <point x="-46.0" y="7.875" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/com.fasterxml:classmate:jar:1.3.4">
+              <point x="68.0" y="7.0" />
+              <point x="625.0" y="940.8135386429609" />
+              <point x="645.0" y="1129.64375" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7">
+              <point x="83.0" y="2.625" />
+              <point x="625.0" y="102.0" />
+              <point x="645.0" y="132.5" />
+              <point x="-82.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4">
+              <point x="58.5" y="-0.0" />
+              <point x="-23.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0">
+              <point x="49.5" y="-0.0" />
+              <point x="-38.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.assertj:assertj-core:jar:3.9.1">
+              <point x="82.0" y="6.4615384615385665" />
+              <point x="366.5" y="1648.01875" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0">
+              <point x="45.5" y="-0.0" />
+              <point x="938.0" y="924.64375" />
+              <point x="958.0" y="1336.26875" />
+              <point x="-40.0" y="-5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE">
+              <point x="84.0" y="-7.0" />
+              <point x="625.0" y="1100.8135386429608" />
+              <point x="645.0" y="891.51875" />
+              <point x="-45.5" y="7.875" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="57.0" y="7.875" />
+              <point x="625.0" y="345.59418541364266" />
+              <point x="645.0" y="395.75" />
+              <point x="-50.0" y="-1.75" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71/org.jetbrains.kotlin:kotlin-stdlib:jar:1.2.71">
+              <point x="62.0" y="5.25" />
+              <point x="938.0" y="1904.4254354136428" />
+              <point x="958.0" y="1998.14375" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-49.5" y="5.25" />
+              <point x="958.0" y="1136.126038642961" />
+              <point x="938.0" y="1454.5098829825838" />
+              <point x="34.5" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
+              <point x="94.0" y="-7.0" />
+              <point x="938.0" y="748.613538642961" />
+              <point x="958.0" y="596.7191854136427" />
+              <point x="-56.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
+              <point x="82.0" y="5.25" />
+              <point x="938.0" y="137.75" />
+              <point x="958.0" y="94.625" />
+              <point x="-49.0" y="2.625" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.yaml:snakeyaml:jar:1.19">
+              <point x="68.5" y="-0.0" />
+              <point x="625.0" y="720.6379354136427" />
+              <point x="645.0" y="796.613538642961" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/com.github.jsqlparser:jsqlparser:jar:4.4">
+              <point x="64.5" y="-7.875" />
+              <point x="625.0" y="1931.89375" />
+              <point x="645.0" y="1858.1754354136428" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE">
+              <point x="68.5" y="-3.9375" />
+              <point x="157.0" y="640.59375" />
+              <point x="-83.5" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT">
+              <point x="68.5" y="-6.5625" />
+              <point x="157.0" y="511.46875" />
+              <point x="-82.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE/org.springframework:spring-tx:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="-38.0" y="-7.0" />
+              <point x="675.0" y="666.613538642961" />
+              <point x="675.0" y="406.25" />
+              <point x="-50.0" y="8.75" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0">
+              <point x="94.0" y="7.0" />
+              <point x="938.0" y="762.613538642961" />
+              <point x="958.0" y="1125.626038642961" />
+              <point x="-49.5" y="-5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/com.zaxxer:HikariCP:jar:2.7.9" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE">
+              <point x="83.5" y="-5.25" />
+              <point x="366.5" y="233.09418541364266" />
+              <point x="-45.0" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-web:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:8.0.23">
+              <point x="68.5" y="9.1875" />
+              <point x="157.0" y="2030.063538642961" />
+              <point x="-75.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/org.springframework.boot:spring-boot-starter-aop:jar:2.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.11.RELEASE">
+              <point x="57.0" y="2.625" />
+              <point x="625.0" y="340.34418541364266" />
+              <point x="645.0" y="329.5" />
+              <point x="-44.0" y="-7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="68.5" y="4.2000000000000455" />
+              <point x="625.0" y="724.8379354136428" />
+              <point x="645.0" y="960.39375" />
+              <point x="-70.5" y="-5.25" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1" target="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5">
+              <point x="94.0" y="-0.0" />
+              <point x="938.0" y="1549.5098829825838" />
+              <point x="958.0" y="1773.14375" />
+              <point x="-34.5" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE/org.springframework:spring-context:jar:5.0.11.RELEASE">
+              <point x="57.0" y="-2.625" />
+              <point x="625.0" y="335.09418541364266" />
+              <point x="645.0" y="267.625" />
+              <point x="-55.0" y="-7.875" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1">
+              <point x="82.0" y="4.846153846153811" />
+              <point x="366.5" y="1607.01875" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-47.0" y="-4.2000000000000455" />
+              <point x="645.0" y="710.4135386429609" />
+              <point x="625.0" y="516.019788642961" />
+              <point x="46.0" y="6.5625" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE">
+              <point x="83.5" y="-8.75" />
+              <point x="366.5" y="94.125" />
+              <point x="-83.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-webmvc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE">
+              <point x="-84.0" y="-5.25" />
+              <point x="376.5" y="1102.5635386429608" />
+              <point x="376.5" y="726.6379354136427" />
+              <point x="-68.5" y="6.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot:jar:2.0.7.RELEASE">
+              <point x="68.5" y="-8.399999999999977" />
+              <point x="625.0" y="712.2379354136427" />
+              <point x="645.0" y="714.613538642961" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final">
+              <point x="83.5" y="5.25" />
+              <point x="366.5" y="933.8135386429609" />
+              <point x="-68.0" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2">
+              <point x="87.5" y="7.0" />
+              <point x="366.5" y="1888.2556467706818" />
+              <point x="-49.0" y="-5.25" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/com.baomidou:mybatis-plus:jar:3.5.2/org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.2.71">
+              <point x="64.5" y="-2.625" />
+              <point x="625.0" y="1937.14375" />
+              <point x="645.0" y="1904.4254354136428" />
+              <point x="-62.0" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-56.0" y="5.25" />
+              <point x="958.0" y="607.2191854136427" />
+              <point x="938.0" y="1440.5098829825838" />
+              <point x="34.5" y="-7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="82.0" y="-0.0" />
+              <point x="366.5" y="1464.01875" />
+              <point x="-54.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5" target="com.baomidou:mybatis-plus-extension:jar:3.5.2/com.baomidou:mybatis-plus-core:jar:3.5.2/org.mybatis:mybatis:jar:3.5.10">
+              <point x="-34.5" y="5.25" />
+              <point x="958.0" y="1783.64375" />
+              <point x="938.0" y="1940.1754354136428" />
+              <point x="34.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
+              <point x="62.0" y="5.25" />
+              <point x="938.0" y="76.75" />
+              <point x="958.0" y="89.375" />
+              <point x="-49.0" y="-2.625" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE/org.springframework:spring-tx:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework:spring-core:jar:5.0.11.RELEASE">
+              <point x="-38.0" y="-0.0" />
+              <point x="645.0" y="673.613538642961" />
+              <point x="625.0" y="513.394788642961" />
+              <point x="46.0" y="3.9375" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.49">
+              <point x="-82.0" y="5.25" />
+              <point x="157.0" y="521.96875" />
+              <point x="157.0" y="730.84375" />
+              <point x="-34.0" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.7.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+              <point x="56.0" y="-0.0" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.7.RELEASE/org.springframework:spring-jdbc:jar:5.0.11.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework:spring-web:jar:5.0.11.RELEASE/org.springframework:spring-beans:jar:5.0.11.RELEASE">
+              <point x="-45.5" y="-2.625" />
+              <point x="645.0" y="881.01875" />
+              <point x="645.0" y="402.75" />
+              <point x="-50.0" y="5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.7.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7">
+              <point x="83.0" y="-7.875" />
+              <point x="625.0" y="91.5" />
+              <point x="645.0" y="10.5" />
+              <point x="-112.0" y="-0.0" />
+            </edge>
+            <edge source="com.oxygen:oxy-education-common:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1" target="com.baomidou:mybatis-plus-boot-starter:jar:3.5.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.7.RELEASE">
+              <point x="-115.5" y="-0.0" />
+              <point x="645.0" y="1488.5098829825838" />
+              <point x="625.0" y="1044.6260386429608" />
+              <point x="90.5" y="7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.7.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.7.RELEASE">
+              <point x="82.0" y="-3.2307692307692832" />
+              <point x="366.5" y="1209.8135386429608" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="573.0" y="1015.0" />
+          <SelectedNodes>
+            <node>com.oxygen:oxy-education-web:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/org/hibernate/validator/hibernate-validator/6.0.13.Final/hibernate-validator-6.0.13.Final.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/OrderItemParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/model/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/TestParamUtils.java" />
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/annotation/IgnoreLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/utils/AnnotationResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/config/WebResponseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/annotation/LogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/MethodLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/configure/CommonLogAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/WebLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-common/src/main/java/com/oxygen/aspect/AbstractLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/param/EnumsParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/EnumsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oxy-education-web/src/main/java/com/oxygen/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>oxy-education</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
