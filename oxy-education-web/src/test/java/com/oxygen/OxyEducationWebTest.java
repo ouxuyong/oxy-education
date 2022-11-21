@@ -24,7 +24,7 @@ public class OxyEducationWebTest {
     @Test
     public void test(){
         StopWatch stopWatch = new StopWatch();
-        stopWatch.start("通过out-gateway查询用友接口数据");
+        stopWatch.start("测试接口数据");
         ExpressionParser parser = new SpelExpressionParser();
         Expression exp = parser.parseExpression("1 + 10");
         Integer message = (Integer) exp.getValue();
