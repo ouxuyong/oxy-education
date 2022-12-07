@@ -1,5 +1,8 @@
 package com.oxygen;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
@@ -13,6 +16,13 @@ import org.springframework.expression.spel.support.StandardEvaluationContext;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.util.StopWatch;
 
+import java.math.BigDecimal;
+import java.math.MathContext;
+import java.math.RoundingMode;
+import java.util.Collections;
+import java.util.List;
+import java.util.Optional;
+
 /**
  * @author oxy
  */
@@ -23,16 +33,33 @@ public class OxyEducationWebTest {
 
     @Test
     public void test(){
-        StopWatch stopWatch = new StopWatch();
-        stopWatch.start("测试接口数据");
+//        BigDecimal amount = new BigDecimal(66.66);
+//        BigDecimal amt = amount.multiply(new BigDecimal("100")).divide(new BigDecimal("1"), 2, BigDecimal.ROUND_HALF_UP);
+//        System.out.println(amt);
+//        BigDecimal bigDecimal = new BigDecimal(1.125);
+//        BigDecimal bigDecimal2 = new BigDecimal(100);
+//        BigDecimal divide = bigDecimal.multiply(bigDecimal2).divide(new BigDecimal("1"), 2, BigDecimal.ROUND_HALF_UP);
+//        System.out.println(divide);
+
         ExpressionParser parser = new SpelExpressionParser();
-        Expression exp = parser.parseExpression("1 + 10");
-        Integer message = (Integer) exp.getValue();
-        stopWatch.stop();
+        Expression exp = parser.parseExpression("T(java.util.Collections).emptyMap()");
+        Object message =  exp.getValue();
+
         System.out.println(message);
-        log.info(stopWatch.prettyPrint());
-//        System.out.println(stopWatch.prettyPrint());
-        log.info("所有任务总耗时：{} ms" ,stopWatch.getTotalTimeMillis() );
+    }
+
+    @Test
+    public void test3(){
+        StandardEvaluationContext context = new StandardEvaluationContext();
+        context.setVariable("key1","66666");
+
+        ExpressionParser parser = new SpelExpressionParser();
+        Expression exp = parser.parseExpression("#key1");
+
+        Object message = exp.getValue(context, Object.class);
+        log.info("message ={}",message);
+
+        System.out.println(message);
     }
     @Test
     public void test2(){

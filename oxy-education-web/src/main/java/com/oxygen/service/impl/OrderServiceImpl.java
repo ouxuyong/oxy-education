@@ -20,7 +20,8 @@ public class OrderServiceImpl implements OrderService {
 
     @Override
     @LogAspect(name = "订单查询")
-    public OrderModel getById(Long orderId) {
+    public OrderModel  getById(Long orderId) {
+
         OrderModel orderModel = orderMapper.getById(orderId);
         if(orderModel == null){
             throw new OxyException(SystemErrorCode.REQUEST_PARAM_ERROR,SystemErrorCode.DATA_NULL_ERROR_MSG);
