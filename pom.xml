@@ -11,6 +11,8 @@
     <modules>
         <module>oxy-education-common</module>
         <module>oxy-education-web</module>
+        <module>oxy-education-generator</module>
+        <module>oxy-education-domain</module>
     </modules>
     <parent>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -59,7 +61,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <!-- 此处为程序主入口，不带后缀 -->
-                            <mainClass>com.oxygen.OxyEducationWebApplication</mainClass>
+                            <mainClass>OxyEducationWebApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

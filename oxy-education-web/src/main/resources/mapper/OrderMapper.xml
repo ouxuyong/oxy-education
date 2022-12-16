@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.oxygen.mapper.OrderMapper">
+<mapper namespace="com.oxygen.education.mapper.OrderMapper">
 
-    <select id="getById" resultType="com.oxygen.model.OrderModel">
+    <select id="getById" resultType="com.oxygen.education.model.OrderModel">
         select *
         from `order`
         WHERE `order_id` = #{orderId}
         order by order_id  desc
         limit 0,1
     </select>
-    <select id="errorGet" resultType="com.oxygen.model.OrderModel">
+    <select id="errorGet" resultType="com.oxygen.education.model.OrderModel">
         select *
         from `order`
         WHERE `order_id` = #{orderId}

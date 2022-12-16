@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.oxygen.education.mapper.CompanyTableConfigMapper">
+
+    <select id="get" resultType="com.oxygen.education.model.CompanyTableConfig">
+    select
+        * from
+        company_table_config
+        where company_id = #{companyId} AND table_type = #{type} and valid = 1
+    </select>
+</mapper>
