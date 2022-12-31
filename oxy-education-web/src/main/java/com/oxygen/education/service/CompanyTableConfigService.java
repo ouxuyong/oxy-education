@@ -16,4 +16,12 @@ public interface CompanyTableConfigService {
      * @return
      */
     CompanyTableConfig get(Integer companyId, String type);
+
+    /**
+     * 查询缓存配置
+     * @param companyId
+     * @param type
+     * @return
+     */
+    CompanyTableConfig cacheFind(Integer companyId, String type);
 }

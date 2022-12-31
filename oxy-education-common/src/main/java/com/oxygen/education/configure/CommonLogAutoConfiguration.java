@@ -1,6 +1,7 @@
 package com.oxygen.education.configure;
 
 import com.oxygen.education.aspect.MethodLogAspect;
+import com.oxygen.education.aspect.TestAspect;
 import com.oxygen.education.aspect.WebLogAspect;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnExpression;
@@ -37,6 +38,13 @@ public class CommonLogAutoConfiguration {
     public WebLogAspect webLogAspect() {
         log.info("注入web日志切面类");
         return new WebLogAspect();
+    }
+    @Bean
+    @ConditionalOnWebApplication
+    @ConditionalOnMissingBean(TestAspect.class)
+    public TestAspect testAspect() {
+        log.info("注入测试日志切面类");
+        return new TestAspect();
     }
 
 }

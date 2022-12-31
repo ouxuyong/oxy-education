@@ -23,7 +23,7 @@ public interface UserService {
      * @param phone
      * @return
      */
-    UserDto getByPhone(String phone);
+    UserModel getByPhone(String phone);
 
     /**
      * 查询列表

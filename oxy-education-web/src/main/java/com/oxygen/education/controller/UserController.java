@@ -32,7 +32,7 @@ public class UserController {
      */
     @GetMapping("get")
     public OxyResponse get(@RequestParam String phone) {
-        UserDto user = userService.getByPhone(phone);
+        UserModel user = userService.getByPhone(phone);
         return OxyResponse.success(user);
     }
 

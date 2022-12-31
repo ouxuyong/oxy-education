@@ -48,9 +48,10 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public UserDto getByPhone(String phone) {
+    public UserModel getByPhone(String phone) {
         UserModel model = userMapper.getByPhone(phone);
-        return userConvert.toDto(model);
+//        return userConvert.toDto(model);
+        return model;
     }
 
     @Override
@@ -86,7 +87,7 @@ public class UserServiceImpl implements UserService {
     public Long save(UserSaveParam userSaveParam) {
 
         //根据手机号码查询用户信息是否存在
-        UserDto model = getByPhone(userSaveParam.getPhone());
+        UserModel model = getByPhone(userSaveParam.getPhone());
         //用户信息存在则报错
         if(model != null){
             throw new OxyException(SystemErrorCode.SYSTEM_ERROR,"该手机号码已注册用户信息，不能重复注册");
@@ -106,7 +107,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public UserModel paasGet(Integer companyId, String phone) {
-        CompanyTableConfig config = companyTableConfigService.get(companyId, USER_TYPE);
+        CompanyTableConfig config = companyTableConfigService.cacheFind(companyId, USER_TYPE);
         if(config == null){
             throw new OxyException(SystemErrorCode.SYSTEM_ERROR,"PASS用户配置表不存在");
         }

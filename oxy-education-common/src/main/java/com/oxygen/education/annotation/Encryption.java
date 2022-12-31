@@ -6,11 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * LogAspect日志打印
- * @author sihua
+ * 加密注解
+ * @author oxy
  */
-@Target({ElementType.METHOD,ElementType.TYPE})
+@Target({ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)
-public @interface LogAspect {
-    String name() default "";
+public @interface Encryption {
+    String value();
 }
