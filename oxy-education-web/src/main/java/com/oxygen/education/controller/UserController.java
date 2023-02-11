@@ -1,6 +1,5 @@
 package com.oxygen.education.controller;
 
-import com.oxygen.education.dto.UserDto;
 import com.oxygen.education.model.UserModel;
 import com.oxygen.education.param.UserParam;
 import com.oxygen.education.param.UserSaveParam;

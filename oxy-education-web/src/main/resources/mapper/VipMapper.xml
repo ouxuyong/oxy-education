@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.oxygen.education.mapper.VipMapper">
+
+        <resultMap id="BaseResultMap" type="com.oxygen.education.model.VipModel">
+            <id column="vip_id"  property="vipId"/>
+            <result column="company_id" jdbcType="INTEGER" property="companyId"/>
+            <result column="phone"  property="mobilePhone"/>
+<!--            <result column="name" property="name"/>-->
+            <result column="gender"  property="gender" jdbcType="INTEGER"
+                    typeHandler = "com.oxygen.education.mybatis.type.CustomEnumTypeHandler" />
+            <result column="delete_at" property="deleteAt"/>
+            <result column="created_at" property="createdAt"/>
+            <result column="updated_at"  property="updatedAt"/>
+        </resultMap>
+
+        <select id="getById" resultMap="BaseResultMap">
+            select *
+            from `vip`
+            WHERE `vip_id` = #{vipId} and delete_at = 0
+            order by vip_id  desc
+        </select>
+
+<!--    <select id="getById" resultType="com.oxygen.education.model.VipModel">-->
+<!--        select *-->
+<!--        from `vip`-->
+<!--        WHERE `vip_id` = #{vipId} and delete_at = 0-->
+<!--        order by vip_id  desc-->
+<!--    </select>-->
+
+
+
+
+
+
+
+
+
+
+
+
+</mapper>

@@ -7,7 +7,7 @@ import lombok.Getter;
  * @author oxy
  */
 @Getter
-public enum GenderEnum {
+public enum GenderEnum implements BaseEnum<Integer>{
     /**
      * 女
      */
@@ -34,4 +34,8 @@ public enum GenderEnum {
         return null;
     }
 
+    @Override
+    public Integer getDictKey() {
+        return code;
+    }
 }
