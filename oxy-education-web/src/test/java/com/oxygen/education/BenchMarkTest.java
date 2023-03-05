@@ -76,6 +76,7 @@ public class BenchMarkTest {
      * @throws RunnerException
      */
     public static void main(String[] args) throws RunnerException {
+        String simpleName = BenchMarkTest.class.getSimpleName();
         Options options = new OptionsBuilder().include(BenchMarkTest.class.getSimpleName()).build();
         new Runner(options).run();
     }

@@ -1,3 +1,7 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.oxygen.education.configure.CommonLogAutoConfiguration
+  com.oxygen.education.configure.CommonLogAutoConfiguration,\
+  com.oxygen.education.interceptor.CustomizeHeaderInterceptor,\
+  com.oxygen.education.config.InterceptorAdapterConfig,\
+  com.oxygen.education.filter.CustomizeHeaderFilter
+
 

@@ -19,7 +19,7 @@
     <select id="getByPhone" resultType="com.oxygen.education.model.UserModel">
         select *
         from `user`
-        WHERE  delete_at = 0 and `phone` = #{phone}
+        WHERE  delete_at = 0 and `phone` = #{phone} and `company_id` =#{companyId}
         order by user_id  desc
         limit 0,1
     </select>

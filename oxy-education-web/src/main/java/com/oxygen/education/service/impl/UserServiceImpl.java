@@ -2,6 +2,7 @@ package com.oxygen.education.service.impl;
 
 import com.oxygen.education.annotation.LogAspect;
 import com.oxygen.education.constant.SystemErrorCode;
+import com.oxygen.education.context.OxygenContextHolder;
 import com.oxygen.education.convert.UserConvert;
 import com.oxygen.education.dto.UserDto;
 import com.oxygen.education.exception.OxyException;
@@ -47,12 +48,6 @@ public class UserServiceImpl implements UserService {
         return userConvert.toDto(userModel);
     }
 
-    @Override
-    public UserModel getByPhone(String phone) {
-        UserModel model = userMapper.getByPhone(phone);
-//        return userConvert.toDto(model);
-        return model;
-    }
 
     @Override
     public List<UserModel> list(UserParam param) {
@@ -113,6 +108,12 @@ public class UserServiceImpl implements UserService {
         }
 
         return userMapper.paasGet(config.getRealTable(),phone);
+    }
+
+    @Override
+    public UserModel getByPhone(String phone) {
+        UserModel model = userMapper.getByPhone(phone, OxygenContextHolder.getCompanyId());
+        return model;
     }
 
 

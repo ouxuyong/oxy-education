@@ -22,4 +22,12 @@ public interface OrderMapper {
      * @return
      */
     OrderModel errorGet(Long orderId);
+
+    /**
+     * 根据订单号获取订单信息
+     * @param companyId 企业主键
+     * @param orderNo 订单号
+     * @return
+     */
+    OrderModel getByNo(@Param("companyId")Long companyId,@Param("orderNo") String orderNo);
 }

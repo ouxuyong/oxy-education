@@ -27,4 +27,6 @@ public interface OrderService {
      * @return
      */
     OrderModel errorGet(Long orderId);
+
+    OrderModel getByNo(String orderNo);
 }

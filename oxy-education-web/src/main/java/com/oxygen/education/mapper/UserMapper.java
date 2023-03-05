@@ -26,7 +26,7 @@ public interface UserMapper {
      * @param phone
      * @return UserModel
      */
-    UserModel getByPhone(@Param("phone") String phone);
+    UserModel getByPhone(@Param("phone") String phone ,@Param("companyId")Long companyId);
 
     /**
      * 根据条件查询用户列表信息

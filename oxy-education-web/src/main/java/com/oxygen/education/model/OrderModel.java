@@ -19,6 +19,8 @@ public class OrderModel {
      * 订单编码
      */
     private String orderNo;
+
+    private Long companyId;
     /**
      * 订单状态
      */

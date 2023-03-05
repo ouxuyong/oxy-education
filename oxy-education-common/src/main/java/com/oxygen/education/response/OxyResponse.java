@@ -103,6 +103,10 @@ public class OxyResponse<T> {
         return new OxyResponse<T>(0, msg, data, page);
     }
 
+    @JsonIgnore
+    public boolean isSuccessful() {
+        return this.code == 0;
+    }
 
 
     @JsonIgnore

@@ -55,4 +55,10 @@ public class OrderController {
         Long orderId = orderService.save(param);
         return OxyResponse.success(orderId);
     }
+
+    @GetMapping("getByNo")
+    public OxyResponse<OrderModel> getByNo(@RequestParam("orderNo") String orderNo) {
+        OrderModel orderModel = orderService.getByNo(orderNo);
+        return OxyResponse.success(orderModel);
+    }
 }

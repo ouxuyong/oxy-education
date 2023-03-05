@@ -13,8 +13,16 @@
     <select id="errorGet" resultType="com.oxygen.education.model.OrderModel">
         select *
         from `order`
-        WHERE `order_id` = #{orderId}
+        WHERE delete_at = 0 and `order_id` = #{orderId}
         order by id  desc
+        limit 0,1
+    </select>
+
+    <select id="getByNo" resultType="com.oxygen.education.model.OrderModel">
+       select *
+        from `order`
+        WHERE  delete_at = 0 and `order_no` = #{orderNo} and company_id = #{companyId}
+        order by  order_id  desc
         limit 0,1
     </select>
 
