@@ -77,12 +77,15 @@ public class TestServiceImpl implements TestService {
         businessB2();
     }
 
-    @Async
+    @Async("async-executor-spring")
     @Override
-    public void asyncExecute(String phone) {
+    public void asyncExecute(String phone) throws InterruptedException {
+        Thread.sleep(2000);
+        log.info("异步线程 {} 开始", Thread.currentThread().getName());
         Long companyId = OxygenContextHolder.getCompanyId();
         Long userId = OxygenContextHolder.getUserId();
-        log.info("businessA2 companyId={} userId={}", companyId,userId);
+        log.info("异步线程 {} companyId={} userId={}", Thread.currentThread().getName(), companyId,userId);
+        log.info("======================================================================================================================");
     }
 
 

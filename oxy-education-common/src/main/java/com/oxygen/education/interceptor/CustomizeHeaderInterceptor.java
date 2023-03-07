@@ -20,9 +20,14 @@ import javax.servlet.http.HttpServletResponse;
 @Order(Integer.MIN_VALUE)
 public class CustomizeHeaderInterceptor extends HandlerInterceptorAdapter {
 
+    private static final String FORBIDDEN_URL ="asyncTestAdverse";
+
     @Override
     public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler,
                                 @Nullable Exception ex) throws Exception {
-        OxygenContextHolder.clearOxyContext();
+        if(!request.getRequestURI().contains(FORBIDDEN_URL)){
+            OxygenContextHolder.clearOxyContext();
+            log.info("主线程 {} 清除ThreadLocal",Thread.currentThread().getName());
+        }
     }
 }

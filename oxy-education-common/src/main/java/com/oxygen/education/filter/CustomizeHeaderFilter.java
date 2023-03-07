@@ -23,18 +23,22 @@ public class CustomizeHeaderFilter extends OncePerRequestFilter {
     private static final String OXY_USER_ID = "oxy-user-id";
     private static final String OXY_COMPANY_ID = "oxy-company-id";
 
+    private static final String FORBIDDEN_URL ="asyncTestAdverse";
+
     @Override
     protected void doFilterInternal(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse,
                                     FilterChain filterChain) throws ServletException, IOException {
         try {
-            OxygenContextHolder.clearOxyContext();
+            if(!httpServletRequest.getRequestURI().contains(FORBIDDEN_URL)){
+                OxygenContextHolder.clearOxyContext();
 
-            String userId =  httpServletRequest.getHeader(OXY_USER_ID);
-            String companyId = httpServletRequest.getHeader(OXY_COMPANY_ID);
+                String userId =  httpServletRequest.getHeader(OXY_USER_ID);
+                String companyId = httpServletRequest.getHeader(OXY_COMPANY_ID);
 
-            OxyContext context = OxygenContextHolder.getContext();
-            context.setUserId(Optional.ofNullable(userId).map(e->Long.valueOf(userId)).orElse(null) );
-            context.setCompanyId(Optional.ofNullable(userId).map(e->Long.valueOf(companyId)).orElse(null));
+                OxyContext context = OxygenContextHolder.getContext();
+                context.setUserId(Optional.ofNullable(userId).map(e->Long.valueOf(userId)).orElse(null) );
+                context.setCompanyId(Optional.ofNullable(userId).map(e->Long.valueOf(companyId)).orElse(null));
+            }
 
         } catch (Exception e) {
             log.error("填充上下文异常：",e);

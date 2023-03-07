@@ -1,12 +1,14 @@
 package com.oxygen.education.context;
 
+import com.alibaba.ttl.TransmittableThreadLocal;
+
 import java.util.Optional;
 
 /**
  * @author oxy
  */
 public class OxygenContextHolder {
-    private static ThreadLocal<OxyContext> THREAD_LOCAL = new ThreadLocal<>();
+    private static TransmittableThreadLocal<OxyContext> THREAD_LOCAL = new TransmittableThreadLocal<>();
 
     public static Long getUserId(){
         return Optional.ofNullable(THREAD_LOCAL.get()).map(OxyContext ::getUserId).orElse(null);

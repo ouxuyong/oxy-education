@@ -73,14 +73,36 @@ public class TestController {
         return OxyResponse.success();
     }
 
+    /**
+     * 异步测试方法 填充上下文
+     * @param phone
+     * @return
+     * @throws InterruptedException
+     */
     @GetMapping("asyncTest")
-    public OxyResponse asyncTest(@RequestParam String phone) {
-        log.info("调用异步方法前 asyncTest companyId ={} userId ={}"
-                ,OxygenContextHolder.getCompanyId(),OxygenContextHolder.getUserId());
+    public OxyResponse asyncTest(@RequestParam String phone) throws InterruptedException {
+        log.info("主线程 {} 调用异步方法前 asyncTest companyId ={} userId ={}"
+                ,Thread.currentThread().getName(),OxygenContextHolder.getCompanyId(),OxygenContextHolder.getUserId());
 
         testService.asyncExecute(phone);
         return OxyResponse.success();
     }
+
+    /**
+     * 异步方法不填充上下文
+     * @param phone
+     * @return
+     * @throws InterruptedException
+     */
+    @GetMapping("asyncTestAdverse")
+    public OxyResponse asyncTestAdverse(@RequestParam String phone) throws InterruptedException {
+        log.info("主线程 {} 调用异步方法前 asyncTest companyId ={} userId ={}"
+                ,Thread.currentThread().getName(),OxygenContextHolder.getCompanyId(),OxygenContextHolder.getUserId());
+
+        testService.asyncExecute(phone);
+        return OxyResponse.success();
+    }
+
 
 
 }

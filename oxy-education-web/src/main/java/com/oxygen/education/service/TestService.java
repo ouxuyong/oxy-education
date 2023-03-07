@@ -9,5 +9,5 @@ public interface TestService {
 
     void executeV2(String phone);
 
-    void asyncExecute(String phone);
+    void asyncExecute(String phone) throws InterruptedException;
 }
