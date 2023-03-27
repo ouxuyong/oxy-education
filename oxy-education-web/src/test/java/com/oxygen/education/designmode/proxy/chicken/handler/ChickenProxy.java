@@ -1,6 +1,6 @@
-package com.oxygen.education.proxy.chicken.handler;
+package com.oxygen.education.designmode.proxy.chicken.handler;
 
-import com.oxygen.education.proxy.chicken.Chicken;
+import com.oxygen.education.designmode.proxy.chicken.Chicken;
 
 public class ChickenProxy implements Chicken {
 

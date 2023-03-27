@@ -1,10 +1,10 @@
-package com.oxygen.education.proxy;
+package com.oxygen.education.designmode.proxy;
 
-import com.oxygen.education.proxy.chicken.Chicken;
-import com.oxygen.education.proxy.chicken.handler.ChickenProxy;
-import com.oxygen.education.proxy.chicken.handler.CustomLogInvocationHandler;
-import com.oxygen.education.proxy.chicken.impl.Cock;
-import com.oxygen.education.proxy.chicken.impl.IkunCock;
+import com.oxygen.education.designmode.proxy.chicken.Chicken;
+import com.oxygen.education.designmode.proxy.chicken.handler.ChickenProxy;
+import com.oxygen.education.designmode.proxy.chicken.handler.CustomLogInvocationHandler;
+import com.oxygen.education.designmode.proxy.chicken.impl.Cock;
+import com.oxygen.education.designmode.proxy.chicken.impl.IkunCock;
 import org.junit.Test;
 
 import java.lang.reflect.InvocationHandler;

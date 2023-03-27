@@ -1,4 +1,4 @@
-package com.oxygen.education;
+package com.oxygen.education.jmh;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.runner.Runner;

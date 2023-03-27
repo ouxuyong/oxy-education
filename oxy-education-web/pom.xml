@@ -87,6 +87,12 @@
 <!--            <scope>compile</scope>-->
         </dependency>
 
+        <dependency>
+                <groupId>com.github.liuyueyi.media</groupId>
+                <artifactId>image-plugin</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+
 
     </dependencies>
     <build>

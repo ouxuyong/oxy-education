@@ -1,4 +1,4 @@
-package com.oxygen.education;
+package com.oxygen.education.optional;
 
 import org.junit.Test;
 

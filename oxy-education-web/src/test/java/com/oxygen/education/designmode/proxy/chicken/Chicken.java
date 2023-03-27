@@ -1,4 +1,4 @@
-package com.oxygen.education.proxy.chicken;
+package com.oxygen.education.designmode.proxy.chicken;
 
 public interface Chicken {
 

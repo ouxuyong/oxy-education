@@ -1,4 +1,4 @@
-package com.oxygen.education.designmode;
+package com.oxygen.education.designmode.singleton;
 
 /**
  * @author oxy

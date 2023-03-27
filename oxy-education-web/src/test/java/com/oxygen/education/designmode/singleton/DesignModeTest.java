@@ -1,6 +1,6 @@
-package com.oxygen.education;
+package com.oxygen.education.designmode.singleton;
 
-import com.oxygen.education.designmode.Singleton;
+import com.oxygen.education.designmode.singleton.Singleton;
 import org.junit.Test;
 
 public class DesignModeTest {

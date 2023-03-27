@@ -1,4 +1,4 @@
-package com.oxygen.education.proxy.chicken.handler;
+package com.oxygen.education.designmode.proxy.chicken.handler;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,6 +1,6 @@
-package com.oxygen.education.proxy.chicken.impl;
+package com.oxygen.education.designmode.proxy.chicken.impl;
 
-import com.oxygen.education.proxy.chicken.Chicken;
+import com.oxygen.education.designmode.proxy.chicken.Chicken;
 
 public class IkunCock implements Chicken {
 
