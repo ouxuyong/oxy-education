@@ -37,7 +37,7 @@ public class CustomizeHeaderFilter extends OncePerRequestFilter {
 
                 OxyContext context = OxygenContextHolder.getContext();
                 context.setUserId(Optional.ofNullable(userId).map(e->Long.valueOf(userId)).orElse(null) );
-                context.setCompanyId(Optional.ofNullable(userId).map(e->Long.valueOf(companyId)).orElse(null));
+                context.setCompanyId(Optional.ofNullable(companyId).map(e->Long.valueOf(companyId)).orElse(null));
             }
 
         } catch (Exception e) {
