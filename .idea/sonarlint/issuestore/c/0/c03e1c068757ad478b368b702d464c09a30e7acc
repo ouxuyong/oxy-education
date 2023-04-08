@@ -1,8 +1,0 @@
-
-c
-java:S5361,"HReplace this call to "replaceAll()" by a call to the "replace()" method.(èÇ¨İùÿÿÿÿ
-c
-java:S5361,"HReplace this call to "replaceAll()" by a call to the "replace()" method.(èÇ¨İùÿÿÿÿ
-D
-java:S1121".Extract the assignment out of this expression.(‹¯…
-[	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(ô–„Ş
