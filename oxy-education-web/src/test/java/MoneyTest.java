@@ -52,6 +52,7 @@ public class MoneyTest {
      * @return
      */
     public UserModel cxyhxx(){
+
         //todo 方式1 入库时使用 varchar 字符串类型，在代码中计算时将字符串转换为BigDecimal
 
         //todo 方式2 入库时使用 decimal 类型进行存储
